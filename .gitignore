@@ -22,3 +22,8 @@
 
 # Ignore Spring files.
 /spring/*.pid
+
+# Ignore vim swap
+*.swp
+
+Gemfile.lock
