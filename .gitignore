@@ -27,3 +27,6 @@
 *.swp
 
 Gemfile.lock
+
+# Ignore uploaded test images.
+/public/uploads
